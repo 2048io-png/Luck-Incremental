@@ -26,7 +26,7 @@ const LUCK = {
 
 const RARITY_PREFIX = [
     ["Common","Uncommon","Rare",'Unique',"Epic","Legendary",'Mythic','Divine','Almighty','Phenomenal','Preeminent','Inlimitable','Exotic','Ethereal','Scarce','Superior','Astronia','Affinity','Noviax','Endre','Abyxtic','Rarest'],
-    ['',"Kilo","Mega","Giga",'Tera','Peta','Exa','Zetta','Yotta','Ronna','Quetta','Xenna','Weka','Vendeka','Uda','Tradaka','Sorta','Rinta','Quexa','Pepta','Ocha','Nena','Minga','Luma','Kema','Jretta','Iqatta','Huitta','Gatextta','Feqesa','Encsenda','Desyta','Ceanata','Bevvgta','Avta'],
+    ['',"Super","Mega","Giga",'Tera','Peta','Exa','Zetta','Yotta','Ronna','Quetta','Xenna','Weka','Vendeka','Uda','Tradaka','Sorta','Rinta','Quexa','Pepta','Ocha','Nena','Minga','Luma','Kema','Jretta','Iqatta','Huitta','Gatextta','Feqesa','Encsenda','Desyta','Ceanata','Bevvgta','Avta'],
     ['','Meta','Hyper','Ultra','Omni','Mesko','Omega'],
 ]
 const RP_LENS = RARITY_PREFIX.map(x=>x.length)
