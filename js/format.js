@@ -1,10 +1,10 @@
 const ST_NAMES = [
 	null, [
-		["","U","D","T","Qa","Qt","Sx","Sp","Oc","No"],
-		["","Dc","Vg","Tg","Qag","Qtg","Sxg","Spg","Ocg","Nog"],
-		["","Ce","De","Te","Qae","Qte","Sxe","Spe","Oce","Noe"],
+		["","U","D","T","Qa","Qt","Sx","Sp","O","N"],
+		["","Dc","Vg","Tg","Qd","Qi","Se","St","Og","Nn"],
+		["","Ce","Dn","Tc","Qe","Qu","Sc","Si","Ot","Ne"],
 	],[
-		["","Mi","Mc","Na","Pc","Fm","At","Zp","Yc","Xn"],
+		["","MI","MC","Na","Pc","Fm","At","Zp","Yc","Xn"],
 		["","Me","Du","Tr","Te","Pe","He","Hp","Ot","En"],
 		["","c","Ic","TCn","TeC","PCn","HCn","HpC","OCn","ECn"],
 		["","Hc","DHe","THt","TeH","PHc","HHe","HpH","OHt","EHc"]
